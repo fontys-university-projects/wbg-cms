@@ -1,0 +1,32 @@
+{
+  "name": "frontend",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@tabler/icons-vue": "^3.3.0",
+    "@tailwindcss/forms": "^0.5.7",
+    "@tolgee/vue": "^5.26.0",
+    "apexcharts": "^3.49.0",
+    "flowbite": "^2.3.0",
+    "flowbite-vue": "^0.1.5",
+    "pinia": "^2.1.7",
+    "vue": "^3.4.27",
+    "vue-country-flag-next": "^2.3.2",
+    "vue-router": "^4.3.2",
+    "vue-tailwind-datepicker": "^1.7.3",
+    "vue3-apexcharts": "^1.5.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.4",
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.3",
+    "vite": "^5.2.11"
+  }
+}
