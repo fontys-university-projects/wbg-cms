@@ -18,8 +18,7 @@ export const useReportStore = defineStore('report', {
             ],
             chart: {
                 views: [100, 150, 100, 150, 200, 180, 220, 250, 210, 190, 170, 160, 100, 150, 100, 150, 200, 180, 220, 250, 210, 190, 170, 160],
-            },
-            breakdown: [100, 150, 100]
+            }
         }
         const yesterday = {
             stats: [
