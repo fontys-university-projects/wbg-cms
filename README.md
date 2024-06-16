@@ -1,5 +1,14 @@
 # frontend
 
+# Introduction
+
+For the sake of simplicity all the code logic that needs to be changed or needs to be connected with a backend is moved inside Pinia stores
+
+Inside GitHub Issues there are all the stores and necessities to be changed as  well as some code comments in Pinia Stores themselves
+
+
+
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
